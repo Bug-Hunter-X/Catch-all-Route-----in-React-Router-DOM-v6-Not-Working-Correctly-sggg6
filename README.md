@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ("*") with React Router DOM v6.  The problem occurs when the catch-all route, intended to handle all unknown paths, fails to render correctly, leading to unexpected behavior. The solution provided addresses this by ensuring the correct order and configuration of routes.
